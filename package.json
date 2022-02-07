@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brittanymorrisdesign/Homework-11.git"
+    "url": "git+https://github.com/SaturnWave/Notetaker"
   },
-  "author": "Brittany Morris",
+  "author": "Arcan Caglayan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brittanymorrisdesign/Homework-11/issues"
+    "url": "https://github.com/SaturnWave/Notetaker/issues"
   },
-  "homepage": "https://github.com/brittanymorrisdesign/Homework-11#readme",
+  "homepage": "https://github.com/SaturnWave/Notetaker#readme",
   "dependencies": {
     "express": "^4.17.1",
     "inquirer": "^7.0.4",
