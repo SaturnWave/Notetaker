@@ -4,7 +4,7 @@ Node.js and ES6+
 # Objective
 An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
-Deployed app:   <br/> 
+Deployed app: https://notetakerhomeworkapplication.herokuapp.com/  <br/> 
 Github Page: https://github.com/SaturnWave/Notetaker<br/> 
 
 ![bg-showcase-3](https://user-images.githubusercontent.com/44029053/77262034-4f898580-6c69-11ea-8994-935a2dd0d757.png)
