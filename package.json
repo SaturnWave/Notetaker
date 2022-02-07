@@ -1,7 +1,7 @@
 {
   "name": "homework-11",
   "version": "1.0.0",
-  "description": "Note Taker",
+  "description": "Notetaker",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
